@@ -16,7 +16,6 @@ For full instructions please see the codealong in Synapse!
 Look at .env
 .env used in knexfile.js
 
-TODO:
 Make database locally
 install packages
     run npm i
@@ -32,6 +31,9 @@ Push to Github
 
 Set up React app and test
 
+TODO:
+
+revise .env variables to correspond to deployment
 deploy server-side to heroku
 
 deploy client-side to netlify
